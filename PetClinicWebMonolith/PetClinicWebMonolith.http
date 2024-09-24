@@ -1,0 +1,6 @@
+@PetClinicWebMonolith_HostAddress = http://localhost:5243
+
+GET {{PetClinicWebMonolith_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
